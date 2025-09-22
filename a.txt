@@ -4,3 +4,4 @@ This is 3rd line in a
 This is 4th line in a
 This change is done via feature2 branch
 new line to understand git pull
+this line is added via git bash
